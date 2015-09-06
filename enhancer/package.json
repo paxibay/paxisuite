@@ -1,0 +1,10 @@
+{
+  "name": "enhancer",
+  "version": "0.0.0",
+  "description": "enhancer",
+  "main": "app.js",
+  "author": {
+    "name": "Administrator",
+    "email": ""
+  }
+}
