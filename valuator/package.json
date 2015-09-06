@@ -1,10 +1,10 @@
 {
   "name": "valuator",
-  "version": "0.0.0",
-  "description": "valuator",
+  "version": "0.0.1",
+  "description": "Capital Budgeting",
   "main": "server.js",
   "author": {
     "name": "Administrator",
-    "email": ""
+    "email": "paxibay@yahoo.ca"
   }
 }
